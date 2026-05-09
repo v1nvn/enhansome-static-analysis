@@ -38,7 +38,7 @@
             "last_commit": "2026-04-15T13:04:59Z",
             "owner": "dense-analysis",
             "repo": "ale",
-            "stars": 13985
+            "stars": 13990
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-05-04T02:36:12Z",
             "owner": "Bearer",
             "repo": "bearer",
-            "stars": 2646
+            "stars": 2649
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2025-10-10T10:05:26Z",
             "owner": "classgraph",
             "repo": "classgraph",
-            "stars": 2981
+            "stars": 2982
           }
         },
         {
@@ -243,10 +243,10 @@
           "repo_info": {
             "archived": false,
             "language": "CodeQL",
-            "last_commit": "2026-05-07T17:25:43Z",
+            "last_commit": "2026-05-09T00:47:30Z",
             "owner": "github",
             "repo": "codeql",
-            "stars": 9561
+            "stars": 9567
           }
         },
         {
@@ -354,7 +354,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-06T18:57:33Z",
+            "last_commit": "2026-05-09T00:49:36Z",
             "owner": "microsoft",
             "repo": "DevSkim",
             "stars": 985
@@ -408,10 +408,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-07T10:21:47Z",
+            "last_commit": "2026-05-08T22:23:48Z",
             "owner": "eslint",
             "repo": "eslint",
-            "stars": 27230
+            "stars": 27234
           }
         },
         {
@@ -582,10 +582,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-08T04:48:17Z",
+            "last_commit": "2026-05-09T01:52:05Z",
             "owner": "oxc-project",
             "repo": "oxc",
-            "stars": 21023
+            "stars": 21036
           }
         },
         {
@@ -736,7 +736,7 @@
             "last_commit": "2026-05-05T21:12:21Z",
             "owner": "dotnet",
             "repo": "roslyn-analyzers",
-            "stars": 1673
+            "stars": 1672
           }
         },
         {
@@ -806,10 +806,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-08T01:17:56Z",
+            "last_commit": "2026-05-09T04:18:49Z",
             "owner": "duriantaco",
             "repo": "skylos",
-            "stars": 431
+            "stars": 433
           }
         },
         {
@@ -923,10 +923,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-07T15:00:37Z",
+            "last_commit": "2026-05-08T23:24:04Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 34899
+            "stars": 34913
           }
         },
         {
@@ -987,7 +987,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-04-29T22:37:10Z",
+            "last_commit": "2026-05-08T23:57:37Z",
             "owner": "wala",
             "repo": "WALA",
             "stars": 844
@@ -1003,7 +1003,7 @@
             "last_commit": "2024-07-12T16:50:14Z",
             "owner": "weggli-rs",
             "repo": "weggli",
-            "stars": 2484
+            "stars": 2485
           }
         },
         {
@@ -1052,7 +1052,7 @@
             "last_commit": "2026-04-24T15:47:56Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6781
+            "stars": 6782
           }
         },
         {
@@ -1106,7 +1106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-08T04:56:52.955Z",
+    "last_updated": "2026-05-09T05:26:43.512Z",
     "original_repository": "analysis-tools-dev/static-analysis",
     "source_repository": "v1nvn/enhansome-static-analysis",
     "source_repository_description": null,
