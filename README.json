@@ -35,7 +35,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vim Script",
-            "last_commit": "2026-05-15T23:03:11Z",
+            "last_commit": "2026-05-16T21:26:53Z",
             "owner": "dense-analysis",
             "repo": "ale",
             "stars": 13990
@@ -104,7 +104,7 @@
             "last_commit": "2026-05-14T15:30:33Z",
             "owner": "Bearer",
             "repo": "bearer",
-            "stars": 2652
+            "stars": 2653
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2025-10-10T10:05:26Z",
             "owner": "classgraph",
             "repo": "classgraph",
-            "stars": 2983
+            "stars": 2982
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-05-15T12:48:38Z",
             "owner": "github",
             "repo": "codeql",
-            "stars": 9595
+            "stars": 9599
           }
         },
         {
@@ -408,10 +408,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-15T14:11:19Z",
+            "last_commit": "2026-05-16T19:29:38Z",
             "owner": "eslint",
             "repo": "eslint",
-            "stars": 27256
+            "stars": 27260
           }
         },
         {
@@ -582,10 +582,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-16T03:54:32Z",
+            "last_commit": "2026-05-17T04:50:39Z",
             "owner": "oxc-project",
             "repo": "oxc",
-            "stars": 21161
+            "stars": 21170
           }
         },
         {
@@ -656,7 +656,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-15T18:26:38Z",
+            "last_commit": "2026-05-16T19:38:19Z",
             "owner": "coderaiser",
             "repo": "putout",
             "stars": 789
@@ -806,7 +806,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-16T05:15:27Z",
+            "last_commit": "2026-05-17T03:15:37Z",
             "owner": "duriantaco",
             "repo": "skylos",
             "stars": 437
@@ -900,7 +900,7 @@
             "last_commit": "2026-05-13T07:51:41Z",
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5266
+            "stars": 5267
           }
         },
         {
@@ -926,7 +926,7 @@
             "last_commit": "2026-05-15T13:26:56Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 35012
+            "stars": 35022
           }
         },
         {
@@ -1052,7 +1052,7 @@
             "last_commit": "2026-04-24T15:47:56Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6787
+            "stars": 6788
           }
         },
         {
@@ -1106,7 +1106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:32:00.816Z",
+    "last_updated": "2026-05-17T05:53:42.759Z",
     "original_repository": "analysis-tools-dev/static-analysis",
     "source_repository": "v1nvn/enhansome-static-analysis",
     "source_repository_description": null,
