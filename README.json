@@ -38,7 +38,7 @@
             "last_commit": "2026-05-17T09:57:07Z",
             "owner": "dense-analysis",
             "repo": "ale",
-            "stars": 13990
+            "stars": 13991
           }
         },
         {
@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-18T02:59:02Z",
+            "last_commit": "2026-05-18T10:48:04Z",
             "owner": "Bearer",
             "repo": "bearer",
-            "stars": 2655
+            "stars": 2654
           }
         },
         {
@@ -203,6 +203,11 @@
         },
         {
           "children": [],
+          "description": "Opensource Static Code Analysis for security teams with Inter file dataflow  taint analysis. Built for finding vulnerabilities, advanced structural search,  derive insights and supports MCP server.",
+          "title": "Code Pathfinder"
+        },
+        {
+          "children": [],
           "description": "Builds knowledge graphs from multi-language codebases using Tree-sitter AST parsing and stores them in Memgraph. Supports 11 programming languages with a unified graph schema and enables natural language querying and editing of code structure and relationships. Functions as an MCP server for AI assistant integration.",
           "title": "Code-Graph-RAG"
         },
@@ -243,10 +248,10 @@
           "repo_info": {
             "archived": false,
             "language": "CodeQL",
-            "last_commit": "2026-05-15T12:48:38Z",
+            "last_commit": "2026-05-18T21:43:48Z",
             "owner": "github",
             "repo": "codeql",
-            "stars": 9599
+            "stars": 9602
           }
         },
         {
@@ -408,10 +413,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-18T00:29:53Z",
+            "last_commit": "2026-05-19T05:57:21Z",
             "owner": "eslint",
             "repo": "eslint",
-            "stars": 27263
+            "stars": 27268
           }
         },
         {
@@ -582,10 +587,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-18T06:12:59Z",
+            "last_commit": "2026-05-19T05:55:26Z",
             "owner": "oxc-project",
             "repo": "oxc",
-            "stars": 21189
+            "stars": 21200
           }
         },
         {
@@ -806,10 +811,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-18T06:03:33Z",
+            "last_commit": "2026-05-19T05:59:59Z",
             "owner": "duriantaco",
             "repo": "skylos",
-            "stars": 438
+            "stars": 439
           }
         },
         {
@@ -900,7 +905,7 @@
             "last_commit": "2026-05-13T07:51:41Z",
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5267
+            "stars": 5268
           }
         },
         {
@@ -923,10 +928,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-15T13:26:56Z",
+            "last_commit": "2026-05-18T13:26:17Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 35029
+            "stars": 35043
           }
         },
         {
@@ -1052,7 +1057,7 @@
             "last_commit": "2026-04-24T15:47:56Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6788
+            "stars": 6791
           }
         },
         {
@@ -1083,7 +1088,7 @@
             "last_commit": "2026-05-07T05:43:52Z",
             "owner": "exakat",
             "repo": "php-static-analysis-tools",
-            "stars": 2875
+            "stars": 2874
           }
         },
         {
@@ -1106,7 +1111,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-18T06:20:16.361Z",
+    "last_updated": "2026-05-19T06:14:39.363Z",
     "original_repository": "analysis-tools-dev/static-analysis",
     "source_repository": "v1nvn/enhansome-static-analysis",
     "source_repository_description": null,
