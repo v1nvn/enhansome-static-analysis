@@ -38,7 +38,7 @@
             "last_commit": "2026-05-17T09:57:07Z",
             "owner": "dense-analysis",
             "repo": "ale",
-            "stars": 13991
+            "stars": 13990
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-05-18T10:48:04Z",
             "owner": "Bearer",
             "repo": "bearer",
-            "stars": 2654
+            "stars": 2659
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2025-10-10T10:05:26Z",
             "owner": "classgraph",
             "repo": "classgraph",
-            "stars": 2982
+            "stars": 2983
           }
         },
         {
@@ -248,7 +248,7 @@
           "repo_info": {
             "archived": false,
             "language": "CodeQL",
-            "last_commit": "2026-05-18T21:43:48Z",
+            "last_commit": "2026-05-19T19:49:23Z",
             "owner": "github",
             "repo": "codeql",
             "stars": 9602
@@ -385,7 +385,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-18T05:02:23Z",
+            "last_commit": "2026-05-19T22:37:21Z",
             "owner": "dotnet",
             "repo": "format",
             "stars": 1945
@@ -413,10 +413,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-19T05:57:21Z",
+            "last_commit": "2026-05-19T12:32:50Z",
             "owner": "eslint",
             "repo": "eslint",
-            "stars": 27268
+            "stars": 27270
           }
         },
         {
@@ -529,7 +529,7 @@
             "last_commit": "2026-04-24T05:15:01Z",
             "owner": "terryyin",
             "repo": "lizard",
-            "stars": 2371
+            "stars": 2373
           }
         },
         {
@@ -587,10 +587,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-19T05:55:26Z",
+            "last_commit": "2026-05-20T06:11:08Z",
             "owner": "oxc-project",
             "repo": "oxc",
-            "stars": 21200
+            "stars": 21218
           }
         },
         {
@@ -608,7 +608,7 @@
             "last_commit": "2019-03-27T23:04:23Z",
             "owner": "facebookarchive",
             "repo": "pfff",
-            "stars": 2441
+            "stars": 2443
           }
         },
         {
@@ -661,7 +661,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-17T11:55:22Z",
+            "last_commit": "2026-05-19T21:57:40Z",
             "owner": "coderaiser",
             "repo": "putout",
             "stars": 789
@@ -811,7 +811,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-19T05:59:59Z",
+            "last_commit": "2026-05-20T03:14:37Z",
             "owner": "duriantaco",
             "repo": "skylos",
             "stars": 439
@@ -928,10 +928,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-18T13:26:17Z",
+            "last_commit": "2026-05-19T16:04:03Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 35043
+            "stars": 35061
           }
         },
         {
@@ -1008,7 +1008,7 @@
             "last_commit": "2024-07-12T16:50:14Z",
             "owner": "weggli-rs",
             "repo": "weggli",
-            "stars": 2484
+            "stars": 2483
           }
         },
         {
@@ -1057,7 +1057,7 @@
             "last_commit": "2026-04-24T15:47:56Z",
             "owner": "dominikh",
             "repo": "go-tools",
-            "stars": 6791
+            "stars": 6792
           }
         },
         {
@@ -1111,7 +1111,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-19T06:14:39.363Z",
+    "last_updated": "2026-05-20T06:14:47.146Z",
     "original_repository": "analysis-tools-dev/static-analysis",
     "source_repository": "v1nvn/enhansome-static-analysis",
     "source_repository_description": null,
